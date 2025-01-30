@@ -1,0 +1,7 @@
+[build]
+  command = "npm install -g hugo-cli && hugo --gc --minify"
+  publish = "public"
+
+[context.production.environment]
+  HUGO_VERSION = "0.142.0"
+  GO_VERSION = "latest"

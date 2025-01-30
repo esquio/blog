@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chinese on Language journey</title>
+    <link>//localhost:1313/tags/chinese/</link>
+    <description>Recent content in Chinese on Language journey</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/tags/chinese/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chinese learning</title>
+      <link>//localhost:1313/posts/post-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/post-1/</guid>
+      <description>&lt;p&gt;You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.&lt;/p&gt;&#xA;&lt;p&gt;It all keeps piling up, and it can feel overwhelming.&lt;/p&gt;&#xA;&lt;p&gt;How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
